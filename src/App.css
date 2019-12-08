@@ -1,0 +1,27 @@
+.list-container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+.progress-container {
+    position: relative;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    margin-top: 50vh;
+    z-index: 100;
+}
+
+.popup-progress {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.modal {
+  display: 'flex';
+  justify-content: 'center';
+  align-items: 'center';
+}
